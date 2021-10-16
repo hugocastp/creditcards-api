@@ -25,7 +25,7 @@ Java API que devuelve tarjetas de crédito según el perfil del usuario de acuer
 # Output 
 `Martí Clasica Citibanamex, América Deporteísmo, Pumas Deporteísmo, Toluca Deporteísmo, La verde Deporteísmo`
 
-![Postman](https://github.com/ungeimer/creditcards-api/blob/master/PostmanTest.jpg?raw=true)
+![Postman](https://github.com/ungeimer/creditcards-api/blob/master/img/PostmanTest.jpg?raw=true)
 
 * Si pasas algún dato válido, te retornará las tarjetas de crédito.
 * Si algún dato pasado no encaja en ningún perfil, no aparecerá ninguna tarjeta de crédito.
