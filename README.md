@@ -1,7 +1,7 @@
 # Credit Cards API
 Java API que devuelve tarjetas de crédito según el perfil del usuario de acuerdo con el cuadro siguiente:
 
-![credit cards table](https://github.com/ungeimer/creditcards-api/blob/master/creditcardTable.jpg?raw=true)
+![credit cards table](https://github.com/ungeimer/creditcards-api/blob/master/img/creditcardTable.jpg?raw=true)
 
 ## Importar el proyecto
 * Asegurate de tener:
