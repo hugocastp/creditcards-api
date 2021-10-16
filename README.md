@@ -4,9 +4,9 @@ Java API que devuelve tarjetas de crédito según el perfil del usuario de acuer
 ![credit cards table](https://github.com/ungeimer/creditcards-api/blob/master/img/creditcardTable.jpg?raw=true)
 
 ## Importar el proyecto
-* Asegurate de tener:
-    * `Java (min. version 8)` installed
-    * `Maven` installed
+* Asegurate de tener instalado:
+    * `Java (min. version 8)` 
+    * `Maven` 
 * Visual Studio Code:
     * `Extension Pack for Java:` https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
     * `Spring Boot Extension Pack:` https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack
