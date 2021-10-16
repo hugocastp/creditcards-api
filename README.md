@@ -10,7 +10,7 @@ Java API que devuelve tarjetas de crédito según el perfil del usuario de acuer
 * Visual Studio Code:
     * `Extension Pack for Java:` https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
     * `Spring Boot Extension Pack:` https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack
-    *`Lombok Annotations Support for VS Code:` https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok
+    * `Lombok Annotations Support for VS Code:` https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok
     
 
 ### Ejecutando el código
