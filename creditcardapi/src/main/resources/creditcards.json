@@ -1,0 +1,253 @@
+
+{
+    "creditcards": [
+        {
+            "profile": "B•Smart, Afinity Card",
+            "passion": "Shopping",
+            "salary-low": 7000,
+            "salary-high": 14999,
+            "age-low": 18,
+            "age-high": 23
+        },
+        {
+            "profile": "B•Smart, Clasica, Afinity Card, Office Depot, Costco, Best Buy Banamex, The Home Depot",
+            "passion": "Shopping",
+            "salary-low": 7000,
+            "salary-high": 14999,
+            "age-low": 24,
+            "age-high": 32
+        },
+        {
+            "profile": "Clasica, Office Depot, Costco, Best Buy Banamex, The Home Depot",
+            "passion": "Shopping",
+            "salary-low": 7000,
+            "salary-high": 14999,
+            "age-low": 33,
+            "age-high": 75
+        },
+        {
+            "profile": "B•Smart, Afinity Card",
+            "passion": "Shopping",
+            "salary-low": 15000,
+            "salary-high": 34999,
+            "age-low": 18,
+            "age-high": 23
+        },
+        {
+            "profile": "Oro, Afinity Card, Office Depot, Costco, Best Buy Banamex, The Home Depot",
+            "passion": "Shopping",
+            "salary-low": 15000,
+            "salary-high": 34999,
+            "age-low": 24,
+            "age-high": 32
+        },
+        {
+            "profile": "Oro, Office Depot, Costco, Best Buy Banamex, The Home Depot",
+            "passion": "Shopping",
+            "salary-low": 15000,
+            "salary-high": 34999,
+            "age-low": 33,
+            "age-high": 75
+        },
+        {
+            "profile": "B•Smart, Afinity Card",
+            "passion": "Shopping",
+            "salary-low": 35000,
+            "salary-high": 49999,
+            "age-low": 18,
+            "age-high": 23
+        },
+        {
+            "profile": "Platinum, Office Depot, Costco, Best Buy Banamex, The Home Depot",
+            "passion": "Shopping",
+            "salary-low": 35000,
+            "salary-high": 49999,
+            "age-low": 24,
+            "age-high": 75
+        },
+        {
+            "profile": "B•Smart, Afinity Card",
+            "passion": "Shopping",
+            "salary-low": 50000,
+            "salary-high": 50000,
+            "age-low": 18,
+            "age-high": 23
+        },
+        {
+            "profile": "Platinum",
+            "passion": "Shopping",
+            "salary-low": 50000,
+            "salary-high": 50000,
+            "age-low": 24,
+            "age-high": 75
+        },
+        {
+            "profile": "Citi / AAdvantage",
+            "passion": "Travels",
+            "salary-low": 12000,
+            "salary-high": 29999,
+            "age-low": 18,
+            "age-high": 75
+        } ,
+        {
+            "profile": "Citi / AAdvantage",
+            "passion": "Travels",
+            "salary-low": 30000,
+            "salary-high": 34999,
+            "age-low": 18,
+            "age-high": 23
+        },
+        {
+            "profile": "Citi / AAdvantage, Platinum",
+            "passion": "Travels",
+            "salary-low": 30000,
+            "salary-high": 34999,
+            "age-low": 24,
+            "age-high": 75
+        },
+        {
+            "profile": "Citi / AAdvantage",
+            "passion": "Travels",
+            "salary-low": 35000,
+            "salary-high": 49999,
+            "age-low": 18,
+            "age-high": 23
+        },
+        {
+            "profile": "Citi / AAdvantage, Platinum",
+            "passion": "Travels",
+            "salary-low": 35000,
+            "salary-high": 49999,
+            "age-low": 24,
+            "age-high": 75
+        },
+        {
+            "profile": "Citi / AAdvantage",
+            "passion": "Travels",
+            "salary-low": 50000,
+            "salary-high": 50000,
+            "age-low": 18,
+            "age-high": 22
+        },
+        {
+            "profile": "Platinum",
+            "passion": "Travels",
+            "salary-low": 50000,
+            "salary-high": 50000,
+            "age-low": 23,
+            "age-high": 75
+        },
+        {
+            "profile": "Banamex Teletón, APAC",
+            "passion": "Help",
+            "salary-low": 12000,
+            "salary-high": 12000,
+            "age-low": 18,
+            "age-high": 75
+        },
+        {
+            "profile": "Office Depot, Costco, Best Buy Banamex, The Home Depot",
+            "passion": "My business",
+            "salary-low": 7000,
+            "salary-high": 7000,
+            "age-low": 18,
+            "age-high": 75
+        },
+        {
+            "profile": "Martí Clasica Citibanamex, América Deporteísmo, Pumas Deporteísmo, Toluca Deporteísmo, La verde Deporteísmo",
+            "passion": "Sports",
+            "salary-low": 7000,
+            "salary-high": 34999,
+            "age-low": 18,
+            "age-high": 75
+        },
+        {
+            "profile": "Martí Premium Citibanamex",
+            "passion": "Sports",
+            "salary-low": 35000,
+            "salary-high": 35000,
+            "age-low": 18,
+            "age-high": 75
+        },
+        {
+            "profile": "B•Smart, Afinity Card",
+            "passion": "My style",
+            "salary-low": 7000,
+            "salary-high": 14999,
+            "age-low": 18,
+            "age-high": 32
+        },
+        {
+            "profile": "B•Smart",
+            "passion": "My style",
+            "salary-low": 7000,
+            "salary-high": 14999,
+            "age-low": 33,
+            "age-high": 75
+        },
+        {
+            "profile": "B•Smart, Afinity Card",
+            "passion": "My style",
+            "salary-low": 15000,
+            "salary-high": 29999,
+            "age-low": 18,
+            "age-high": 23
+        },
+        {
+            "profile": "B•Smart, Oro, Afinity Card",
+            "passion": "My style",
+            "salary-low": 15000,
+            "salary-high": 29999,
+            "age-low": 24,
+            "age-high": 32
+        },
+        {
+            "profile": "Oro",
+            "passion": "My style",
+            "salary-low": 15000,
+            "salary-high": 29999,
+            "age-low": 33,
+            "age-high": 75
+        },
+        {
+            "profile": "B•Smart, Afinity Card",
+            "passion": "My style",
+            "salary-low": 30000,
+            "salary-high": 34999,
+            "age-low": 18,
+            "age-high": 23
+        },
+        {
+            "profile": "B•Smart, Platinum, Afinity Card",
+            "passion": "My style",
+            "salary-low": 30000,
+            "salary-high": 34999,
+            "age-low": 24,
+            "age-high": 32
+        },
+        {
+            "profile": "Platinum",
+            "passion": "My style",
+            "salary-low": 30000,
+            "salary-high": 34999,
+            "age-low": 33,
+            "age-high": 75
+        },
+        {
+            "profile": "B•Smart",
+            "passion": "My style",
+            "salary-low": 35000,
+            "salary-high": 35000,
+            "age-low": 18,
+            "age-high": 23
+        },
+        {
+            "profile": "B•Smart, Platinum",
+            "passion": "My style",
+            "salary-low": 35000,
+            "salary-high": 35000,
+            "age-low": 24,
+            "age-high": 75
+        }
+    ]
+}

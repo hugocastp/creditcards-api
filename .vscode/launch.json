@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CreditcardapiApplication<creditcardapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.academy.creditcardapi.CreditcardapiApplication",
+            "projectName": "creditcardapi",
+            "args": ""
+        }
+    ]
+}
